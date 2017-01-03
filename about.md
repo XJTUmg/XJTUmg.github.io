@@ -14,8 +14,6 @@ Just a beginner.
 
 <h3> Contact </h3>
 <p>
-QQ: 2636609817
-<p>
 E-mail: wmg_1007@163.com
 <p>
 {% include comments.html %}
