@@ -469,12 +469,6 @@ img::-moz-selection {
     box-shadow: none; 
   }*/
 
-  .post img {
-    max-width: 100%;
-    margin: 0 auto;
-    border-radius: 3px;
-    text-align: center;
-    display: block; }
   .post pre {
     width: 95%;
     overflow: auto; }
