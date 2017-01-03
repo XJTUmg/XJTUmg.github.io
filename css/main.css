@@ -469,6 +469,7 @@ img::-moz-selection {
     box-shadow: none; 
   }*/
   .post img {
+    margin: 0 auto;
     border-radius: 3px;
     text-align: left;
     display: block; }
