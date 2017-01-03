@@ -468,6 +468,10 @@ img::-moz-selection {
     border: none;
     box-shadow: none; 
   }*/
+  .post img {
+    border-radius: 3px;
+    text-align: left;
+    display: block; }
 
   .post pre {
     width: 95%;
