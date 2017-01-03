@@ -18,3 +18,4 @@ QQ: 2636609817
 <p>
 E-mail: wmg_1007@163.com
 <p>
+{% include comments.html %}
