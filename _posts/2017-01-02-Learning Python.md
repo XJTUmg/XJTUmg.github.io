@@ -9,7 +9,7 @@ Python is the best programming language.
 
 ### Chapter 1 ~ 2
 
-```python
+{% highlight python %}
 
 #!/usr/bin/python
 
@@ -73,4 +73,4 @@ lst.sort(reverse = True) #same as lst.sort() lst.reverse()
 tup1 = tuple([1, 2, 3]) #same as list
 tup = (42, ) # must have comma
 # the tuple function works in pretty much the same way as list
-```
+{% endhighlight %}
