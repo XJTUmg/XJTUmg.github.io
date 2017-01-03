@@ -7,7 +7,7 @@ tag: Python
 
 Python is the best programming language.
 
-### Chapter 1 ~ 2
+### Notes
 
 {% highlight python %}
 
