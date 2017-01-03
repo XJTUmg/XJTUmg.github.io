@@ -16,4 +16,6 @@ Just a beginner.
 <p>
 E-mail: wmg_1007@163.com
 <p>
+GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg </a>
+<p>
 {% include comments.html %}
