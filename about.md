@@ -18,4 +18,11 @@ E-mail: wmg_1007@163.com
 <p>
 GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg </a>
 <p>
+
+<h3> Friends </h3>
+<p>
+<a target="_blank" href="http://rylynnn.github.io/"> Rylynnn </a>: Chairman, Northwestern University ACM Association
+<p>
+<a target="_blank" href="http://blog.csdn.net/xaphoenix"> xaphoenix </a>: ACMer, Beihang University
+<p>
 {% include comments.html %}
