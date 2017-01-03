@@ -56,6 +56,6 @@ print S.strip('123') # remove the char in list where on the left and right of th
 </div>
 
 ### String Formatting Example
-<div align="leftest">
+<div align="left">
 	<img src="/images/posts/python3/2.png" height="871" width="657">  
 </div>
