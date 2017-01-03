@@ -23,6 +23,7 @@ import math
 
 x = 1
 print "x = " + `x`
+print x
 
 print 'C:\\now'
 print r'C:\now' # raw string
