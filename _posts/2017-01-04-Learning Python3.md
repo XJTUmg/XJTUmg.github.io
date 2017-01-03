@@ -51,9 +51,7 @@ print S.strip('123') # remove the char in list where on the left and right of th
 {% endhighlight %}
 
 ### String Formatting Conversion Types
-<div align=left>
-  <img src="/images/posts/python3/1.png" height="724" width="738">
-</div>
+<left> <img src="/images/posts/python3/1.png" height="724" width="738"> </left>
 
 ### String Formatting Example
 <img src="/images/posts/python3/2.png" height="871" width="657">  
