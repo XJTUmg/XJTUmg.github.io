@@ -6,7 +6,7 @@ title: About Me
 ACMer, 2016 ACM-ICPC China-Final Gold Medal.
 <p>
 I'm Learning Python for
-<a target="_blank" href="https://developers.google.com/open-source/gsoc/"> GSoC2017 </a>
+<a target="_blank" href="https://developers.google.com/open-source/gsoc/"> GSoC2017</a>
 .
 <p>
 Just a beginner.
@@ -16,13 +16,17 @@ Just a beginner.
 <p>
 E-mail: wmg_1007@163.com
 <p>
-GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg </a>
+GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg</a>
 <p>
 
 <h3> Friends </h3>
 <p>
-<a target="_blank" href="http://rylynnn.github.io/"> Rylynnn </a>: Chairman, Northwestern University ACM Association
+<a target="_blank" href="http://rylynnn.github.io/"> Rylynnn</a>: Chairman, Northwestern University ACM Association
 <p>
-<a target="_blank" href="http://blog.csdn.net/xaphoenix"> xaphoenix </a>: ACMer, Beihang University
+<a target="_blank" href="http://blog.csdn.net/xaphoenix"> xaphoenix</a>: ACMer, Beihang University
+<p>
+<a target="_blank" href="http://shijieyywd.com/"> shijieyywd</a>: ACMer, Xidian University
+<p>
+<a target="_blank" href="http://lowsfish.com/"> lowsfish</a>: Student, Zhejiang University
 <p>
 {% include comments.html %}
