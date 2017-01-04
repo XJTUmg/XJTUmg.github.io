@@ -35,6 +35,6 @@ GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg</a>
 <p>
 <a target="_blank" href="http://zccz14.com"> zccz</a>: ACMer, Xi'an Jiaotong University
 <p>
-<a target="_blank" href="http://hobochen.github.io"> hobochen</a>: The last Chairman, Xi'an Jiaotong University ACM Associationlast
+<a target="_blank" href="http://hobochen.github.io"> hobochen</a>: The last Chairman, Xi'an Jiaotong University ACM Association
 <p>
 {% include comments.html %}
