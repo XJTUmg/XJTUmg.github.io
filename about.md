@@ -29,8 +29,12 @@ GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg</a>
 <p>
 <a target="_blank" href="http://lowsfish.com/"> lowsfish</a>: Student, Zhejiang University
 <p>
-<a target="_blank" href="http://bigballon.github.io"> BIGBALLON</a>: Front-End Web Developer
+<a target="_blank" href="http://bigballon.github.io"> BIGBALLON</a>: Machine Learning, NCTU
 <p>
 <a target="_blank" href="http://liziyang96.com/"> Ziyang Li</a>: Chairman, Xi'an Jiaotong University ACM Association
+<p>
+<a target="_blank" href="http://zccz14.com"> zccz</a>: ACMer, Xi'an Jiaotong University
+<p>
+<a target="_blank" href="http://hobochen.github.io"> hobochen</a>: The last Chairman, Xi'an Jiaotong University ACM Associationlast
 <p>
 {% include comments.html %}
