@@ -31,6 +31,6 @@ GitHub: <a target="_blank" href="https://github.com/XJTUmg/"> XJTUmg</a>
 <p>
 <a target="_blank" href="http://bigballon.github.io"> BIGBALLON</a>: Front-End Web Developer
 <p>
-<a target="_blank" href="http://liziyang96.com/"> Ziyang Li</a>: ACMer, Xi'an Jiaotong University
+<a target="_blank" href="http://liziyang96.com/"> Ziyang Li</a>: Chairman, Xi'an Jiaotong University ACM Association
 <p>
 {% include comments.html %}
