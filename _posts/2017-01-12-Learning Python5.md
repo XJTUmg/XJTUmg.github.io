@@ -68,12 +68,12 @@ print eval('2 * 3 + (5 + 2) * 2')
 
 {% endhighlight %}
 
-# The Python Comparison Operators  
+### The Python Comparison Operators  
 <dev align = "left">
   <img src="/images/posts/python5/1.png" height="401" width="594">
 </dev>
 
-# New Functions  
+### New Functions  
 <dev align = "left">
   <img src="/images/posts/python5/2.png" height="426" width="798">
 </dev>
