@@ -11,6 +11,7 @@ There are three parts of connected components algorithms in the Boost Graph Libr
 1. Connected components algorithm.  
 2. Strongly connected components algorithm.  
 3. Biconnected components algorithm.  
+
 I am proposing to add those BGL functionalities to pgRouting during this GSoC period.  
 
 ### PDF
