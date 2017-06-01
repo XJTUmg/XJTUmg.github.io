@@ -15,9 +15,9 @@ tag: pgRouting
 
 ### Fix the installation of PostGIS on AppVoyer
 
-   - [x] AppVeyor: changed ```PG_VERSION``` to ```2.3.2``` in the build because ```2.3.1``` is no longer availabe.
+   - AppVeyor: changed ```PG_VERSION``` to ```2.3.2``` in the build because ```2.3.1``` is no longer availabe.
 Here is the contents of the site where it gets the binaires http://winnie.postgis.net/download/windows/pg94/buildbot/
-   - [x] updated to latest changes on develop
+   - updated to latest changes on develop
 
 ### Get familiar with C++
    
