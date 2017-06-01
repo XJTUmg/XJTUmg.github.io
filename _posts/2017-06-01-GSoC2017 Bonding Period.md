@@ -23,30 +23,30 @@ Here is the contents of the site where it gets the binaires http://winnie.postgi
    
    Watch videos about C++:
 
-   - [x] [https://www.youtube.com/watch?v=1OEu9C51K2A](https://www.youtube.com/watch?v=1OEu9C51K2A)
-   - [x] [https://www.youtube.com/watch?v=YnWhqhNdYyk](https://www.youtube.com/watch?v=YnWhqhNdYyk)
-   - [x] [https://www.youtube.com/watch?v=u5senBJUkPc](https://www.youtube.com/watch?v=u5senBJUkPc)
+   - [https://www.youtube.com/watch?v=1OEu9C51K2A](https://www.youtube.com/watch?v=1OEu9C51K2A)
+   - [https://www.youtube.com/watch?v=YnWhqhNdYyk](https://www.youtube.com/watch?v=YnWhqhNdYyk)
+   - [https://www.youtube.com/watch?v=u5senBJUkPc](https://www.youtube.com/watch?v=u5senBJUkPc)
 
 ### Practice teamwork
    
-   - [x] use ```create.sh``` to create my dijkstra
-   - [x] make a PR to Vicky's fork 
-   - [x] fix appvoyer
+   - use ```create.sh``` to create my dijkstra
+   - make a PR to Vicky's fork 
+   - fix appvoyer
 
 ### Set up my wiki page
 
    A wiki page contains
 
-   - [x] A brief introduction about your project
-   - [x] Plan for the week
-   - [x] A detailed list of tasks you need to accomplish during the week
-   - [x] Links to your weekly reports
+   - A brief introduction about your project
+   - Plan for the week
+   - A detailed list of tasks you need to accomplish during the week
+   - Links to your weekly reports
 
    Table of contents
 
    **Links, don't open a page, must be in the same page**.
 
-   - [x] Have a look at 
+   - Have a look at 
      - https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Contraction#table-of-contents
      - https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Flow#table-of-contents
 
@@ -55,7 +55,7 @@ Here is the contents of the site where it gets the binaires http://winnie.postgi
    **Send a report to the mailing list and copy it to wiki page weekly**.
    **Do mention about my meetings with the mentors in the weekly reports**.
 
-   - [x] Have a section which has the links to all the weekly report. For example, 
+   - Have a section which has the links to all the weekly report. For example, 
      - https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Contraction#status-reports
      - https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Flow#table-of-contents
 
@@ -75,7 +75,7 @@ Here is the contents of the site where it gets the binaires http://winnie.postgi
    ```
    and make a pull request to main repo's develop
    lint ```src/trsp/src/GraphDefinition.h```
-   - [x] update my fork
-   - [x] depart from develop
-   - [x] linting
-   - [x] make a pull request
+   - update my fork
+   - depart from develop
+   - linting
+   - make a pull request
