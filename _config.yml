@@ -10,8 +10,8 @@ url: "http://XJTUmg.me"
 
 # Comment
 comment:
-    # disqus: wmg_1001
-    duoshuo: XJTUmg
+    disqus: XJTUmg
+    # duoshuo: XJTUmg
 
 # Social
 social:
