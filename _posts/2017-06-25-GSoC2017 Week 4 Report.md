@@ -10,14 +10,14 @@ All final exams of this semester are done! :)
 ### Fixed AppVoyer
 
 I changed
-```
+{% highlight C++ %}
 boost::strong_components(graph.graph, &components[0]);
-```
+{% endhighlight %}
 to
-```
+{% highlight C++ %}
 boost::strong_components(graph.graph,
         boost::make_iterator_property_map(components.begin(), get(boost::vertex_index, graph.graph)));
-```
+{% endhighlight %}
 
 ### About Sorting
 
@@ -26,7 +26,7 @@ boost::strong_components(graph.graph,
 - A complicated lambda is not clear. Sometimes you can avoid this situation by using both of ```std::sort``` and ```std::stable_sort```  
 
 Finally, I changed
-```
+{% highlight C++ %}
 template < class G >
 bool
 Pgr_components< G >::sort_cmp(
@@ -38,16 +38,16 @@ Pgr_components< G >::sort_cmp(
 }
 
 std::sort(results.begin(), results.end(), sort_cmp);
-```
+{% endhighlight %}
 to
-```
+{% highlight C++ %}
 std::sort(results.begin(), results.end(),
         [](const pgr_componentV_t &left, const pgr_componentV_t &right) {
         return left.node < right.node; });
 std::sort(results.begin(), results.end(),
         [](const pgr_componentV_t &left, const pgr_componentV_t &right) {
         return left.component < right.component; });
-```
+{% endhighlight %}
 By the way, I changed ```pgr_componentV_t``` to ```pgr_components_rt``` after the discussion with Vicky.
 
 ### What did you get done this week?
