@@ -58,10 +58,12 @@ Details can be found in [here](https://github.com/pgRouting/pgrouting/wiki/GSoC-
 Set of pull requests can be found in [here](https://github.com/pgRouting/pgrouting/pulls?q=is%3Apr+author%3AXJTUmg+is%3Aclosed).
 
 ### What do you plan on doing next week?
+
 - Plan to extend ```pgr_base_graph``` for my implementations because results table of ```pgr_biconnectedComponents``` has many duplicates.
 - Start to implement the edge version of those functions.
 
 ### Are you blocked on anything?
+
 No, at the moment I’m not blocked.  
 
 The wiki page can be found in [here](https://github.com/pgRouting/pgrouting/wiki/GSoC-2017-Connected-Components).  

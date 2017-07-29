@@ -16,9 +16,11 @@ Details can be found in [here](https://github.com/pgRouting/pgrouting/wiki/GSoC-
 Set of pull requests can be found in [here](https://github.com/pgRouting/pgrouting/pulls?q=is%3Apr+author%3AXJTUmg+is%3Aclosed).
 
 ### What do you plan on doing next week?
+
 I plan to keep working on the template code. Also I plan to learn unit tests in pgRouting and try to write some for my function.
 
 ### Are you blocked on anything?
+
 No, at the moment I’m not blocked.  
 
 The wiki page can be found in [here](https://github.com/pgRouting/pgrouting/wiki/GSoC-2017-Connected-Components).  
